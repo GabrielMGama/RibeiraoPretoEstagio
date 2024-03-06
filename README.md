@@ -87,6 +87,20 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
 ```python
+frase = input("Entre com uma frase qualquer: ").strip()
+
+palavras = frase.split()
+
+junto = ''.join(palavras)
+
+inverso = ''
+
+for letra in range(len(junto) - 1, -1, -1):
+    inverso += junto[letra]
+
+print(inverso)
+```
+---
 
 
 
