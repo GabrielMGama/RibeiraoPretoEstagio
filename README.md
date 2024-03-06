@@ -78,7 +78,7 @@ Como você faria para descobrir, usando apenas duas idas até uma das salas das 
 [Ligaria um dos interruptores iria na sala verificar qual lâmpada acendeu voltaria, ligaria outro interruptor verificar qual lâmpada acendeu dessa vez, por exclusão o proximo interruptor é a lâmpada que sobrou.]
 
 ---
-5) Escreva um programa que inverta os caracteres de um string.
+## 5) Escreva um programa que inverta os caracteres de um string.
 
 IMPORTANTE:
 
