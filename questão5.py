@@ -1,8 +1,8 @@
 frase = input("Entre com uma frase qualquer: ").strip()
 
-palavras = frase.split()
+palavra = frase.split()
 
-junto = ''.join(palavras)
+junto = ''.join(palavra)
 
 inverso = ''
 
